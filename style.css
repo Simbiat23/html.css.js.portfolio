@@ -169,11 +169,11 @@ section {
   display: flex;
   justify-content: center;
   gap: 5rem;
-  height: 80vh;
+  height: 92vh;
 }
 .section__pic-container {
   display: flex;
-  height: 400px;
+  height: 4oopx;
   width: 400px;
   margin: auto 0;
 }
@@ -336,7 +336,7 @@ section {
 }
 
 .section__pic-container {
-  height: 4oopx;
+  height: 400px;
   width: 400px;
   margin: auto 0;
 }
