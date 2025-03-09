@@ -403,6 +403,10 @@ article.icon {
   transition: transform 0.3s ease-in-out;
   border-radius: 1rem;
 }
+.project-img2 {
+  max-width: 100%;
+  height: auto;
+}
 .overlay {
   position: absolute;
   bottom: -100%;
