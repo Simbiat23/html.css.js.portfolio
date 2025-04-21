@@ -37,7 +37,7 @@ nav {
   justify-content: space-around;
   align-items: center;
   width: 100%;
-  position: fixed;
+  position: relative;
   height: 80px;
   padding: 0px 5%;
   background: rgba(54, 32, 99, 0.1);
@@ -45,8 +45,7 @@ nav {
   z-index: 1000;
   border-radius: 2rem;
   max-width: 80%;
-  margin-left: 25px;
-  margin-right: 40px;
+  margin: 0 auto;
   transition: background 0.3s ease-in-out;
 
   left: 0;
