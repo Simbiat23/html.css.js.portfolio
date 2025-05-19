@@ -9,7 +9,7 @@
 
 body {
   font-family: "Poppins", serif;
-  background: linear-gradient(to right, #9370db, #e6e6fa);
+  background: linear-gradient(135deg, #f0f4ff 0%, #dfe9f3 100%);
   padding-top: 30px;
 }
 
@@ -196,7 +196,7 @@ section {
 .section__text_p2 {
   transform: translateX(-100%);
   opacity: 0;
-  animation: slideIn 4s forwards;
+  animation: slideIn 1s forwards;
 }
 
 @keyframes slideIn {
