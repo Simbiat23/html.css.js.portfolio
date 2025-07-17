@@ -402,6 +402,11 @@ article.icon {
   transition: transform 0.3s ease-in-out;
   border-radius: 1rem;
 }
+.project-img-1 {
+  width: 100%;
+  height: auto;
+  display: block;
+}
 .project-img2 {
   max-width: 100%;
   height: auto;
